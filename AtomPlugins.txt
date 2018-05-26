@@ -1,1 +1,6 @@
-1.Activate Power Mode
+cht
+atom-beautify
+color-picker
+minimap
+minimap-highlight-selected
+Activate Power Mode
