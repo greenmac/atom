@@ -4,3 +4,4 @@ color-picker
 minimap
 minimap-highlight-selected
 Activate Power Mode
+php-integrator-base
